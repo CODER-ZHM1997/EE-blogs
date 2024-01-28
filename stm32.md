@@ -2,6 +2,7 @@ stm32是生产环境下的主流的芯片，这个是必会技能啊
 
 教程
 
+- 入门：https://www.bilibili.com/video/BV1Z84y157dx
 - [stm32入门的话我应该选哪本书和哪款开发板？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/352194887)
 - [STM32中STD、HAL、LL库比较](https://www.cnblogs.com/kerwincui/p/11921932.html)
 - 智能家居：https://www.bilibili.com/video/BV1HH4y1o7EN
@@ -13,12 +14,12 @@ stm32是生产环境下的主流的芯片，这个是必会技能啊
 - [ ] mcu结构
 - [ ] IDE
 - [ ] GPIO
-- [ ] 常见的外设
 - [ ] 时钟
 - [ ] 中断
 - [ ] 通信协议
 - [ ] 文档阅读能力
 - [ ] HAL库
+- [ ] 标准库
 - [ ] 项目
 
 
@@ -295,3 +296,6 @@ usb口与typec口区别
 - 波特率不一致：为啥文档
 
 我usb直连的是单片机，不是
+
+为啥要接地？
+

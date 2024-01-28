@@ -7,9 +7,10 @@
   - [稿定设计](https://www.gaoding.com/)
   - ai绘画
     - https://cgdream.ai
-
 - 串口屏
   - 淘金驰：https://www.bilibili.com/video/BV1YL41147HX
+  - 迪文
+    - demo：[DEMO例程](http://inforum.dwin.com.cn:20080/forum.php?mod=forumdisplay&fid=63)
 
 
 
@@ -73,6 +74,10 @@
   - 项目类型改了
 - 如何找做好看的设计？
   - 横屏：可以通过wps自带的模板
+
+写入注意事项
+
+- 重新生成ICL文件时，
 
 
 
