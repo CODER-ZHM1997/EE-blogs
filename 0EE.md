@@ -1,26 +1,28 @@
 教程
 
+- 学习路线
+  - https://www.bilibili.com/video/BV14V4y1t7Kn
+  - https://juejin.cn/post/7310112724945141760
+  - [【10W+阅读】耗时一周总结的嵌入式学习路线，超详细 - 掘金 (juejin.cn)](https://juejin.cn/post/7310112724945141760?searchId=20240301121312E1F791906F7C98B2894D#heading-10)
+- 硬件交流社区
+  - [嵌入式博客-专业IT技术发表平台 (csdn.net)](https://blog.csdn.net/nav/embedded)
+  - [大佬都在用-嵌入式开发5个常用必备网站推荐_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1wu4y1B76Q/?spm_id_from=333.337.search-card.all.click&vd_source=522153461914a766fc002cc8619314e4)
+  - [单片机 嵌入式工程师必收藏的网站_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1bj411q7zq/?spm_id_from=333.337.search-card.all.click&vd_source=522153461914a766fc002cc8619314e4)
 - 基础
   - https://www.bilibili.com/video/BV1uW4y1v7xr
     - 全部都可以看这个大佬的：[水木珞研电气考研](https://space.bilibili.com/397697344)
 
   - 嵌入式大全：https://www.bilibili.com/video/BV1FA411v7YW
-
 - [硬件工程师如何找到类似于GitHub这样的社区？](https://www.zhihu.com/question/26053396/answer/3009987847)
 - 项目大全
 
   - esp32+51：https://www.bilibili.com/video/BV1k44y137EV
   - 基础：https://www.bilibili.com/video/BV1EB4y1N7iD
-- 学习路线
-  - https://www.bilibili.com/video/BV14V4y1t7Kn
-  - https://juejin.cn/post/7310112724945141760
 - 电子书
   - [imKeYan/EmbedBooks](https://github.com/imKeYan/EmbedBooks?tab=readme-ov-file#05---操作系统)
   - [掌握这五本单片机相关书籍，工资不破万都难。_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1be41127ys/?spm_id_from=333.1007.tianma.7-3-25.click&vd_source=522153461914a766fc002cc8619314e4)
-  
 - [2021年50家国产MCU厂商](https://zhuanlan.zhihu.com/p/435216264)
 - 学习物联网的网站
-
   - B站：大多数大佬都在这里
   - https://blog.csdn.net/weixin_51218153/article/details/122938146
   - [zhengnianli/EmbedSummary: 精品嵌入式资源汇总 (github.com)](https://github.com/zhengnianli/EmbedSummary)
@@ -28,6 +30,7 @@
   - [会选科技](https://space.bilibili.com/230131041)
   - [小蜜蜂老师](https://space.bilibili.com/397050828)
   - [奇遇单片机](https://space.bilibili.com/1508566862)
+  - [软妹不能玩单片机吗的个人空间-软妹不能玩单片机吗个人主页-哔哩哔哩视频 (bilibili.com)](https://space.bilibili.com/1664629739)
   - [洋桃电子](https://space.bilibili.com/277276709?spm_id_from=333.337.search-card.all.click)
   - [乐鑫信息科技](https://space.bilibili.com/538078399?spm_id_from=333.999.0.0)
   - [嘉立创](https://space.bilibili.com/1020770905?spm_id_from=333.999.0.0)
@@ -56,28 +59,37 @@
 #### 学习路线
 
 - [ ] 电路的基础知识
-- [ ] 数字电路
-- [ ] 模拟电路（可选）
-- [ ] 能看懂、并设计电路原理图
-- [ ] 现场安装、设备调试
-
-  - 调试分软件和硬件调试
-  - 设备调试：万用表、烙铁、示波器、频谱仪
-- [ ] ~~c：2天~~
+- [ ] 能看懂硬件电路原理图
+- [ ] ~~c~~
 - [ ] c++：可选，一般用c即可
-- [ ] 51：可选
-- [ ] arduino：可选
-- [ ] stm32：1周
-- [ ] esp32：1周
+- [ ] 51：不用学
+- [ ] arduino：不用学
+- [ ] python：学一点即可
+- [ ] stm32：2周
+- [ ] esp32：2周
+- [ ] 网络协议：1周
+- [ ] 总线协议：usicu
 - [ ] linux系统：1周
 - [ ] QT开发：嵌入式linux开发：1周
 - [ ] RTOS：FreeRTOS：1周
 - [ ] plc编程：可选
+- [ ] 画板
 - [ ] 绘图软件：CAD、EPLAN：可选
 - [ ] 连云：阿里云：3天
 - [ ] 学会测试
   - 设计测试用例（列举各种场景）
-- [ ] 项目
+- [ ] 项目，首先要学会找项目
+
+
+
+日常充电
+
+- 数字电路
+- 模拟电路（可选）
+- 能看懂、并设计电路原理图
+- 现场安装、设备调试
+  - 调试分软件和硬件调试
+  - 设备调试：万用表、烙铁、示波器、频谱仪
 
 
 
@@ -313,9 +325,11 @@ stm32与esp32适用场景
 
 - 
 
-mcu就是单片机的英文，别名微控制器
+mcu就是单片机的英文，别名微控制器，芯片
 
 - microcontroller unit
+- 单片机包含cpu，比如stm32芯片
+- 为啥叫单片机？是指他只需要一块芯片就能构建整个系统，不像传统的计算机，有多块芯片构成
 
 mpu是微处理器
 
@@ -430,4 +444,6 @@ iot平台有什么卵用？
 - 简化设备连接
 - 数据监控
 - 生态整合
+
 - 
+
