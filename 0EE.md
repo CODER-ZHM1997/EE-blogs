@@ -8,36 +8,9 @@
   - [嵌入式博客-专业IT技术发表平台 (csdn.net)](https://blog.csdn.net/nav/embedded)
   - [大佬都在用-嵌入式开发5个常用必备网站推荐_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1wu4y1B76Q/?spm_id_from=333.337.search-card.all.click&vd_source=522153461914a766fc002cc8619314e4)
   - [单片机 嵌入式工程师必收藏的网站_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1bj411q7zq/?spm_id_from=333.337.search-card.all.click&vd_source=522153461914a766fc002cc8619314e4)
-- 基础
-  - https://www.bilibili.com/video/BV1uW4y1v7xr
-    - 全部都可以看这个大佬的：[水木珞研电气考研](https://space.bilibili.com/397697344)
-
-  - 嵌入式大全：https://www.bilibili.com/video/BV1FA411v7YW
 - [硬件工程师如何找到类似于GitHub这样的社区？](https://www.zhihu.com/question/26053396/answer/3009987847)
-- 项目大全
-
-  - esp32+51：https://www.bilibili.com/video/BV1k44y137EV
-  - 基础：https://www.bilibili.com/video/BV1EB4y1N7iD
-- 电子书
-  - [imKeYan/EmbedBooks](https://github.com/imKeYan/EmbedBooks?tab=readme-ov-file#05---操作系统)
-  - [掌握这五本单片机相关书籍，工资不破万都难。_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1be41127ys/?spm_id_from=333.1007.tianma.7-3-25.click&vd_source=522153461914a766fc002cc8619314e4)
 - [2021年50家国产MCU厂商](https://zhuanlan.zhihu.com/p/435216264)
 - 学习物联网的网站
-  - B站：大多数大佬都在这里
-  - https://blog.csdn.net/weixin_51218153/article/details/122938146
-  - [zhengnianli/EmbedSummary: 精品嵌入式资源汇总 (github.com)](https://github.com/zhengnianli/EmbedSummary)
-  - micro-python：[王铭东](https://space.bilibili.com/457643342)
-  - [会选科技](https://space.bilibili.com/230131041)
-  - [小蜜蜂老师](https://space.bilibili.com/397050828)
-  - [奇遇单片机](https://space.bilibili.com/1508566862)
-  - [软妹不能玩单片机吗的个人空间-软妹不能玩单片机吗个人主页-哔哩哔哩视频 (bilibili.com)](https://space.bilibili.com/1664629739)
-  - [洋桃电子](https://space.bilibili.com/277276709?spm_id_from=333.337.search-card.all.click)
-  - [乐鑫信息科技](https://space.bilibili.com/538078399?spm_id_from=333.999.0.0)
-  - [嘉立创](https://space.bilibili.com/1020770905?spm_id_from=333.999.0.0)
-  - [普中开源电子分享网 - Powered by Discuz! (prechin.net)](http://www.prechin.net/)
-  - 产品拆解
-    - https://www.52audio.com/archives/category/teardowns
-  - [硬核拆解投稿视频-硬核拆解视频分享-哔哩哔哩视频 (bilibili.com)](https://space.bilibili.com/427494870/video)
   - 方案：https://www.iotku.com/
   - 标准：http://www.gov.cn/fuwu/bzxxcx/bzh.htm
   - 专利申请：https://www.patenthub.cn/
@@ -47,10 +20,6 @@
   - 展会：https://www.chinapp.com/zhanhui
   - 开源：https://gitee.com/explore
     - [EmbedSummary: 嵌入式大杂烩资源汇总 (gitee.com)](https://gitee.com/zhengnianli/EmbedSummary?_from=gitee_search#37-调试器)
-- 工具网站
-  - 图片
-    - https://wallhaven.cc/search
-    - [极简壁纸 (bizhi1.com)](https://bizhi1.com/item-cat/ai-generated)
 
 
 
@@ -65,13 +34,14 @@
 - [ ] 51：不用学
 - [ ] arduino：不用学
 - [ ] python：学一点即可
-- [ ] stm32：2周
-- [ ] esp32：2周
+- [ ] stm32：20h
+- [ ] esp32：20h
 - [ ] 网络协议：1周
 - [ ] 总线协议：usicu
 - [ ] linux系统：1周
 - [ ] QT开发：嵌入式linux开发：1周
 - [ ] RTOS：FreeRTOS：1周
+- [ ] LVGL：10h
 - [ ] plc编程：可选
 - [ ] 画板
 - [ ] 绘图软件：CAD、EPLAN：可选
